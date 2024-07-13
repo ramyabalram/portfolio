@@ -1,11 +1,12 @@
 # Data Engineer
 
 ### Education
-Masters in Electrical and Computer Engineering
+Masters in Electrical and Computer Engineering at XXX
 
 ### Work Experience
-Senior Data Engineer at Wells Fargo 
+Senior Data Engineer at XXX
 
+## Projects
 
 
 
